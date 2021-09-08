@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">TrackDem</string>
+
+    <string name="title_activity_accept_mission_nav">AcceptMissionNavActivity</string>
+    <string name="tab_text_1">Form</string>
+    <string name="tab_text_2">Status</string>
+    <string name="title_activity_accepted_mission_nav">AcceptedMissionNav</string>
+    <string name="title_activity_mission_progress">MissionProgress</string>
+    <string-array name="Description">
+        <item>Transport Container "3A" to Factory </item>
+        <item>Transport package "5C" to Depo</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+        <item>etc</item>
+
+    </string-array>
+    <string-array name="Missions">
+        <item>Mission 1</item>
+        <item>Mission 2</item>
+        <item>Mission 3</item>
+        <item>Mission 4</item>
+        <item>Mission 5</item>
+        <item>Mission 6</item>
+        <item>Mission 7</item>
+        <item>Mission 8</item>
+
+    </string-array>
+
+    <string-array name="number">
+    <item>One</item>
+    <item>Two</item>
+    <item>Three</item>
+    <item>Four</item>
+    <item>Five</item>
+    <item>Six</item>
+    </string-array>
+
+    <string-array name="Location">
+        <item>Trablos</item>
+        <item>Dibbieh</item>
+        <item>Bakaata</item>
+        <item>Alley</item>
+        <item>Alley</item>
+        <item>Alley</item>
+        <item>Alley</item>
+        <item>Alley</item>
+
+
+    </string-array>
+
+</resources>

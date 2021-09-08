@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1035514280383",
+    "firebase_url": "https://trackdem-d0152.firebaseio.com",
+    "project_id": "trackdem-d0152",
+    "storage_bucket": "trackdem-d0152.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1035514280383:android:4f8a70607ee4feeba4490a",
+        "android_client_info": {
+          "package_name": "com.example.trackdem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1035514280383-sqil925eeo1bf1im3sclhbof1ikducs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xBSr6tf-sFb8C39G11ZvBy_xYiDpF0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1035514280383-sqil925eeo1bf1im3sclhbof1ikducs9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
